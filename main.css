@@ -1,0 +1,31 @@
+/* Style for body */
+body {
+    background-color: #f0f8ff; /* Change to any color you prefer */
+    color: #333333; /* Change to your preferred text color */
+  }
+  
+  /* Style for nav */
+  nav {
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+  }
+  
+  /* Style for footer */
+  footer {
+    text-align: center;
+    margin-right: 200px;
+  }
+  
+  /* Style for meme image */
+  #memeImage {
+    margin-right: 200px;
+  }
+  
+  /* Style for header */
+  header {
+    text-align: center;
+  }
+  
